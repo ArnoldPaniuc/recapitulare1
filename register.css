@@ -1,0 +1,24 @@
+.tex {
+    color: blue;
+}
+
+.email {
+    border: 2px solid green;
+}
+
+.pass:hover {
+    background-color: green;
+}
+
+input:focus {
+    border: solid 5px gray;
+}
+
+.label1:checked + .label2 {
+    color: green;
+  }
+
+.label2 {
+    color: red;
+    border: 2px solid black;
+}

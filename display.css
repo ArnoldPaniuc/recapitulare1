@@ -1,0 +1,29 @@
+span, img  {
+    display: block;
+}
+
+img {
+    width: 300px ;
+    height: 200px;
+}
+
+.img1 {
+    width: 300px;
+    height: 200px;
+    background-image: url(https://marketplace.canva.com/EAFHm4JWsu8/1/0/1600w/canva-pink-landscape-desktop-wallpaper-HGxdJA_xIx0.jpg);
+    background-size: auto;
+}
+
+.img2 {
+    width: 300px;
+    height: 200px;
+    background-image: url(https://img.freepik.com/free-photo/blossom-floral-bouquet-decoration-colorful-beautiful-flowers-background-garden-flowers-plant-pattern-wallpapers-greeting-cards-postcards-design-wedding-invites_90220-1103.jpg);
+    background-size: auto;
+}
+
+.img3 {
+    width: 300px;
+    height: 200px;
+    background-image: url(https://marketplace.canva.com/EAE-xnqWvJk/1/0/1600w/canva-retro-smoke-and-round-light-desktop-wallpapers-JLofAI27pCg.jpg);
+    background-size: auto;
+}
